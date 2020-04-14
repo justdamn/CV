@@ -4,6 +4,7 @@
     <list default="true" id="234adba1-6734-4667-84f1-36860ccdf85c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/pic/pic6.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/pic/pic6.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +19,7 @@
     <session id="1675825793">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -30,7 +31,8 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -65,7 +67,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="917" />
+          <entry key="html" value="922" />
           <entry key="js" value="1" />
           <entry key="md" value="46" />
           <entry key="vue" value="1107" />
@@ -73,7 +75,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="917" />
+          <entry key="HTML" value="922" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="46" />
           <entry key="Vue.js" value="1107" />
@@ -85,12 +87,12 @@
     <favorites_list name="CV" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="392">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -157,11 +159,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1584" />
-    <option name="height" value="801" />
+    <option name="width" value="1600" />
+    <option name="height" value="802" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -251,18 +252,19 @@
       <workItem from="1585013542942" duration="35000" />
       <workItem from="1585015638781" duration="1110000" />
       <workItem from="1585270909979" duration="627000" />
-      <workItem from="1586328685096" duration="890000" />
+      <workItem from="1586328685096" duration="940000" />
+      <workItem from="1586860840142" duration="399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110237000" />
+    <option name="totallyTimeSpent" value="110686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1600" height="808" extended-state="6" />
+    <frame x="0" y="23" width="1600" height="802" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848485" visible="true" weight="0.25269157" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848485" visible="true" weight="0.25205827" />
       <window_info id="Structure" order="1" sideWeight="0.50151515" side_tool="true" weight="0.26638773" />
       <window_info id="npm" order="2" sideWeight="0.50151515" side_tool="true" weight="0.26638773" />
       <window_info id="Favorites" order="3" sideWeight="0.50151515" side_tool="true" weight="0.26638773" />
@@ -353,8 +355,8 @@
     <entry file="file://$PROJECT_DIR$/public/index.html" />
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="392">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="234adba1-6734-4667-84f1-36860ccdf85c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/pic/pic6.png" beforeDir="false" afterPath="$PROJECT_DIR$/dist/pic/pic6.png" afterDir="false" />
-    </list>
+    <list default="true" id="234adba1-6734-4667-84f1-36860ccdf85c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +15,7 @@
     <session id="1675825793">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
@@ -253,15 +249,15 @@
       <workItem from="1585015638781" duration="1110000" />
       <workItem from="1585270909979" duration="627000" />
       <workItem from="1586328685096" duration="940000" />
-      <workItem from="1586860840142" duration="399000" />
+      <workItem from="1586860840142" duration="677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110686000" />
+    <option name="totallyTimeSpent" value="110964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1600" height="802" extended-state="6" />
+    <frame x="0" y="23" width="1600" height="802" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848485" visible="true" weight="0.25205827" />
